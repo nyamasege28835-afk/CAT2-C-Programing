@@ -1,5 +1,4 @@
-
-/*
+/*
 Name: Arnold Siere
 Registration No: PA106/G/28835/25
 Description :Program to display wages
